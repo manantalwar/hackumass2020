@@ -1,2 +1,2 @@
 # manantalwar.github.io
-HackUMass 2020 Project Website
+AppTalk Website (HackUMass 2020)
